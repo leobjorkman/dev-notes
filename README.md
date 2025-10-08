@@ -3,15 +3,20 @@ Here I out thoughts about setup, practices I like, and things worth remembering.
 
 ## Things I like
 
+* Simplicity and effectiveness 
 * **Create things that matter.** Optimize for the timeframe that actually matters. If we’re shipping a long-lived, large-scale app, follow solid engineering practices. If a tiny, temporary feature is needed by three people, an Excel might be enough.
 * **Building is a last resort** Often there is another way to achieve the same outcome. Then don't do it.
+
+## Things I don't like 
+* Acronyms
+* Overengineering to look cool 
 
 ## Dev setup
 
 * WSL (Ubuntu) + VS Code WSL extension.
   Fast installs/builds, Windows conveniences (GCM, Visual Studio), repos checked out in WSL. Great for running different agents.
 
-## Filestructure
+## Files
 * Feature slicing
 * Files < 100 lines of code
 * Methods < 15 lines of code 
