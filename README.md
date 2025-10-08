@@ -11,10 +11,14 @@ Here I out thoughts about setup, practices I like, and things worth remembering.
 * WSL (Ubuntu) + VS Code WSL extension.
   Fast installs/builds, Windows conveniences (GCM, Visual Studio), repos checked out in WSL. Great for running different agents.
 
-## Backend
-
+## Filestructure
 * Feature slicing
-* .NET
+* Files < 100 lines of code
+* Methods < 15 lines of code 
+
+## Backend
+* .NET for heavt stuff 
+* Node/typescript for smaller
 
 ## Infra
 
