@@ -59,3 +59,9 @@ alias gadd="git add ."
 alias gbr='git branch'
 alias gst='git status'
 ```
+
+## Other aliases
+
+```bash
+alias explorer='explorer.exe `wslpath -w "$PWD"`'
+```
