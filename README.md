@@ -65,3 +65,6 @@ alias gst='git status'
 ```bash
 alias explorer='explorer.exe `wslpath -w "$PWD"`'
 ```
+
+## Starting out with a new project
+[Some useful git commands](https://piechowski.io/post/git-commands-before-reading-code)
